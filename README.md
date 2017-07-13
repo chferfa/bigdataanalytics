@@ -27,7 +27,7 @@ Preparación
 
 - Se instalan las librerías (el script comprueba primero si ya están instaladas)
 - Se cargan las librerías
-- <u>Se configuran las rutas del _dataset_ (ruta de _training_ y ruta de _test_)</u>
+- **Se configuran las rutas del _dataset_ (ruta de _training_ y ruta de _test_)**
 - Se establecen los parámetros de configuración del preprocesado de los _datasets_ tanto a nivel global como a nivel particular (para cada uno de los dos problemas)
 - Se definen las funciones auxiliares
 
@@ -49,4 +49,4 @@ Detección de variedad
 Este _script_ es independiente del anterior y complementario a la tarea. En él se incluyen las acciones realizadas sobre los _datasets_ para llevar a cabo la exploración de los mismos.
 Parte de los resultados de la ejecución de este _script_ está plasmada en el _paper_.
 
-Si ya se dispone de todas las librerías (y, en caso, contrario, si no surge ningún inconveniente en la instalación de las mismas) <u>la única configuración indispensable para ejecutar el ambos _scripts_ es establecer las rutas del _dataset_</u>.
+Si ya se dispone de todas las librerías (y, en caso, contrario, si no surge ningún inconveniente en la instalación de las mismas) **la única configuración indispensable para ejecutar el ambos _scripts_ es establecer las rutas del _dataset_**.
