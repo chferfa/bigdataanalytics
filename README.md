@@ -48,7 +48,7 @@ Detección de variedad
 Este _script_ es independiente del anterior y complementario a la tarea. En él se incluyen las acciones realizadas sobre los _datasets_ para llevar a cabo la exploración de los mismos.
 Parte de los resultados de la ejecución de este _script_ está plasmada en el _paper_.
 
-Si ya se dispone de todas las librerías (y, en caso, contrario, si no surge ningún inconveniente en la instalación de las mismas) **la única configuración indispensable para ejecutar el ambos _scripts_ es establecer las rutas del _dataset_**.
+Si ya se dispone de todas las librerías (y, en caso, contrario, si no surge ningún inconveniente en la instalación de las mismas) **la única configuración indispensable para ejecutar ambos _scripts_ es establecer las rutas del _dataset_**.
 
 _PechaKucha_
 
