@@ -5,15 +5,15 @@
 
 #### Guión de ejecución
 
-<u>_Paper_</u>
+_Paper_
 
-El _paper_ se ha realizado mediante _LaTeX_.
+El _paper_ se ha realizado mediante **LaTeX**.
 
-Se aporta tanto el documento _PDF_ con el resultado final (**paper.pdf**), como el fichero con el código fuente _LaTeX_ (**paper.tex**); además, para la correcta compilación, se aportan las imágenes referenciadas en el código fuente _LaTeX_, que deben ubicarse en el mismo directorio que el fichero con el código fuente.
+Se aporta tanto el documento _PDF_ con el resultado final (**paper.pdf**), como el fichero con el código fuente **LaTeX** (**paper.tex**); además, para la correcta compilación, se aportan las imágenes referenciadas en el código fuente **LaTeX**, que deben ubicarse en el mismo directorio que el fichero con el código fuente.
 
-<u>_Scripts_</u>
+_Scripts_
 
-Los _scripts_ se han realizado mediante _R_.
+Los _scripts_ se han realizado mediante **R**.
 
 Se aportan dos _scripts_:
 
@@ -43,10 +43,15 @@ Detección de variedad
 - Obtención de las bolsas de palabras
 - Obtención del modelo de _machine learning_ mediante **Random Forest**
 
-
 **exploration.R**
 
 Este _script_ es independiente del anterior y complementario a la tarea. En él se incluyen las acciones realizadas sobre los _datasets_ para llevar a cabo la exploración de los mismos.
 Parte de los resultados de la ejecución de este _script_ está plasmada en el _paper_.
 
 Si ya se dispone de todas las librerías (y, en caso, contrario, si no surge ningún inconveniente en la instalación de las mismas) **la única configuración indispensable para ejecutar el ambos _scripts_ es establecer las rutas del _dataset_**.
+
+_PechaKucha_
+
+La presentación _PechaKucha_ se ha realizado mediante **Google Docs** y se ha exportado a formato **PowerPoint**.
+
+Se aporta la presentación (**pechakucha.pptx**).
